@@ -37,7 +37,7 @@ This project analyzes customer transaction data using Python, SQL, and Google Sh
 
 ## Dashboard
 
-![Dashboard](Screenshots/Dashboard.jpg)
+![Dashboard](Dashboard.jpg)
 ## Conclusion
 
 The project successfully demonstrates data cleaning, exploratory data analysis, SQL querying, dashboard creation, and business insight generation.
